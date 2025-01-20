@@ -1,2 +1,2 @@
 # My-Dev-Space
-Para gestar meus comandos e procurar ajuda com eles
+Olá! Me chamo sirius,sou um dev iniciante procurando sempre aprender mais
